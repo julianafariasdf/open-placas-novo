@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+:root {
+  --open-black: #080808;
+  --open-gold: #D4AF37;
+  --open-silver: #C0C0C0;
+  --open-white: #FFFFFF;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--open-black);
+  color: var(--open-white);
+  font-family: Arial, Helvetica, sans-serif;
+}
