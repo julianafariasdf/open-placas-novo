@@ -141,3 +141,5 @@ Possíveis melhorias futuras:
 Projeto desenvolvido exclusivamente para a **Open Placas**.
 
 Todos os direitos reservados.
+
+Deploy automático Hostinger configurado.
