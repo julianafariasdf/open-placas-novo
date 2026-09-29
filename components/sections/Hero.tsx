@@ -64,9 +64,9 @@ export default function Hero() {
             md:text-7xl
             "
           >
-            Dê destaque
+            Destacando
             <br />
-            à sua marca.
+            a sua marca.
           </h1>
 
           <p
